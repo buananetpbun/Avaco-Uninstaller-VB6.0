@@ -1,4 +1,4 @@
-# Avaco Uninstaller VB6.0
+## Avaco Uninstaller VB6.0
 
 CONTEST WINNER ON planet-source-code.com
 
@@ -8,4 +8,6 @@ I hope that for helping. Ok, this is complete program uninstaller or add/remove 
 
 ![image](https://user-images.githubusercontent.com/42666125/111258646-f374f980-864f-11eb-936f-5a5d875a99f8.png)
 
-<img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+## <b>License</b><br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
